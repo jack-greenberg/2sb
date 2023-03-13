@@ -480,7 +480,16 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "USB90",
+        "pattern": "*_DP"
+      },
+      {
+        "netclass": "USB90",
+        "pattern": "*_DN"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
